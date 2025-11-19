@@ -22,4 +22,3 @@ alias projects='cd $HOME/files/projects'
 alias digs='dig +short'
 alias settings='vim $HOME/Library/Application\ Support/Code/User/settings.json'
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
-
